@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "repository": "Gudui/BowsersFuryLocalCoop",
+  "labels": [
+    { "name": "bug", "color": "d73a4a", "description": "A reproducible release problem" },
+    { "name": "enhancement", "color": "a2eeef", "description": "A focused improvement request" }
+  ],
+  "issues": []
+}
